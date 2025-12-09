@@ -7,5 +7,6 @@ function draw() {
     background(220);
 
 
-    //draw a circle
+    //draw a rectangle
+
 }
